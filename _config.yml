@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: 汀竹轩
 SEOTitle: 剑一的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: bsby@zpf666.online
@@ -86,7 +86,7 @@ ba_track_id: fa350583b59c4dbf8f40fdde38f28cfc
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 

@@ -1,7 +1,7 @@
 # Site settings
 title: 汀竹轩
 SEOTitle: 剑一的博客 | leon Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/user.jpg
 email: bsby@zpf666.online
 description: "吾日三省吾身，忠乎？信乎？习呼？"
 keyword: "thinking, 剑一的博客, zpf996"
@@ -74,7 +74,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: fa350583b59c4dbf8f40fdde38f28cfc
+ba_track_id: 633bef752fe9738012006e7f46f05250
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx

@@ -1,3 +1,18 @@
+```
+---
+layout:     post
+title:      二维离散余弦变换（DCT）与二维离散反余弦变换（IDCT）C语言实现
+subtitle:   DCT
+date:       2020-5-18
+author:     BY
+header-img: img/user.jpg
+catalog: 	 true
+tags:
+    - c
+    - DCT-IDCT
+---
+
+```
 # 二维离散余弦变换（DCT）与二维离散反余弦变换（IDCT）C语言实现
 ## 实验目标
 对一个8x8的矩阵进行DCT和IDCT然后在观察前者和后者的变化
@@ -13,8 +28,8 @@ $$c(u)=\begin{cases}\sqrt{\frac{1}{N}}, & u=0 \\ \sqrt{\frac{2}{N}}, & u\neq0\en
 
 具体公式理解就不讲了，高中知识就可以理解
 ### 实验结果
-![1](img/2020-5-18-dct/DCT_1.png)
-![1](img/2020-5-18-dct/DCT_2.png)
+![1](img/2020-5-18-dct/DCT_1.png)  
+![2](img/2020-5-18-dct/DCT_2.png)
 
 ### 实验过程
 ```c

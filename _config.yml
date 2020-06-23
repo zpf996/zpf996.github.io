@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
-        href: ""
+        title: "面条",
+        href: "https://miantiao.online/"
     },{
-        title: "",
-        href: ""
+        title: "zero123",
+        href: "https://www.lust1218.top/"
     },{
         title: "",
         href: ""
